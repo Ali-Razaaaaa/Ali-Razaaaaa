@@ -30,7 +30,7 @@
   <a href="https://drive.google.com/file/d/1F2avlm2pwQnCdnc7x0mQRquTkLoE26ap/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
-  <a href="https://alirazaaaaportfolio.netlify.app/" target="_blank">
+  <a href="https://alirazaaaportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
