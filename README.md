@@ -21,10 +21,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/ali-raza-42965a237/">
+  <a href="https://www.linkedin.com/in/ali-raza-42965a237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:razabugtiali@gmail.com">
+  <a href="mailto:razabugtiali@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://drive.google.com/file/d/1F2avlm2pwQnCdnc7x0mQRquTkLoE26ap/view?usp=sharing" target="_blank">
