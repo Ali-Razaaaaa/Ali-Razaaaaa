@@ -27,7 +27,7 @@
   <a href="mailto:razabugtiali@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://drive.google.com/file/d/1F2avlm2pwQnCdnc7x0mQRquTkLoE26ap/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1CO0opFJJRzEYo_mujiQlthHcfw6_D3dA/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://alirazaaaportfolio.netlify.app/" target="_blank">
