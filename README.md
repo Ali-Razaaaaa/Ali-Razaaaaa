@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ali Raza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate App and Web Developer from Karachi, Pakistan</h3>
+<h3 align="center">React Native Developer from Karachi, Pakistan</h3>
 
 <ul>
 <li>
-<p>🔭 I’m currently working on <strong>Flutter Apps and React Projects</strong></p>
+<p>💻 I build <strong>React Native apps</strong> — from UI to API integrations, push notifications, and authentication (biometric, Firebase)</p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>Machine Learning, Python, Data Science, React Native and Flask</strong></p>
+<p>🔭 Currently working on <strong>Cineflix</strong>, a full-stack React Native app with Firebase Auth, TMDB API integration, and Redux state management — check it out below</p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on <strong>Flutter based projects</strong></p>
+<p>🧰 Comfortable across the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js) for full-stack work</p>
+</li>
+<li>
+<p>👯 Looking to collaborate on <strong>React Native and React.js projects</strong> — especially bug fixes, feature builds, and API integrations</p>
 </li>
 <li>
 <p>📫 How to reach me: <strong><a href="mailto:razabugtiali@gmail.com">razabugtiali@gmail.com</a></strong></p>
-</li>
-<li>
-<p>⚡ What I like to do: <strong>Exploring new technologies, coding, and learning about AI/ML</strong></p>
 </li>
 </ul>
 
