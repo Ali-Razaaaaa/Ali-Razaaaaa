@@ -46,6 +46,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-Razaaaaa&theme=react&show_icons=true&include_all_commits=true">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ali-Razaaaaa&theme=react&layout=compact">
+ <p align="center">
+  <img height="150" src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=Ali-Razaaaaa&theme=react&show_icons=true">
+</p>
 </p>
