@@ -3,16 +3,16 @@
 
 <ul>
 <li>
-<p>💻 I build <strong>React Native apps</strong> — from UI to API integrations, push notifications, and authentication (biometric, Firebase)</p>
+<p>💻 I build <strong>React Native apps</strong> — UI, API integrations, push notifications, and authentication (biometric, Firebase)</p>
 </li>
 <li>
-<p>🔭 Currently working on <strong>Cineflix</strong>, a full-stack React Native app with Firebase Auth, TMDB API integration, and Redux state management — check it out below</p>
+<p>🔭 Currently working at a <strong>software company</strong>, building and maintaining production mobile apps</p>
 </li>
 <li>
 <p>🧰 Comfortable across the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js) for full-stack work</p>
 </li>
 <li>
-<p>👯 Looking to collaborate on <strong>React Native and React.js projects</strong> — especially bug fixes, feature builds, and API integrations</p>
+<p>👯 Open to <strong>React Native and React.js projects</strong> — freelance or full-time, remote or on-site</p>
 </li>
 <li>
 <p>📫 How to reach me: <strong><a href="mailto:razabugtiali@gmail.com">razabugtiali@gmail.com</a></strong></p>
@@ -39,4 +39,3 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ali-Razaaaaa&theme=react&show_icons=true&include_all_commits=true">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Razaaaaa&theme=react&layout=compact">
-</p>
