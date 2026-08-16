@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
 
-  <a href="https://alirazaaaportfolio.netlify.app/" target="_blank">
+  <a href="https://alirazaportfoliooo.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </div>
