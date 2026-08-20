@@ -6,11 +6,7 @@
 </div>
 
 <p align="center">
-  <strong>ONSITE IN KARACHI | REMOTE</strong>
-  &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
-    <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" height="45"/>
-  </a>
+  <strong>ONSITE IN KARACHI &nbsp; | &nbsp; REMOTE</strong>
 </p>
 
 <p align="center">
@@ -114,3 +110,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Razaaaaa&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph"/>
 </p>
+
