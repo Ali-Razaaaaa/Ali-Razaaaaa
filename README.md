@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=%24+whoami;ali+raza+bugti;%24+role+--current;react+native+developer;%24+status;open+to+work+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=%24+whoami;ALI+RAZA;%24+role+--current;react+native+developer;%24+status;open+to+work+%F0%9F%9F%A2" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20REMOTE-00FF41?style=for-the-badge&logo=target&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-00FF41?style=for-the-badge&logo=upwork&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117&fontSize=20" height="40"/>
+  <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117&fontSize=20" height="40"/>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@ ali@dev:~$ cat about.md
 <p align="center"><sub><b>Languages</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,flutter&theme=dark&perline=5" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,redux&theme=dark&perline=5" height="60"/>
 </p>
-<p align="center"><sub><b>Mobile &amp; Frontend</b></sub></p>
+<p align="center"><sub><b>React Native &amp; Frontend</b></sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=5" height="60"/>
