@@ -19,6 +19,17 @@
 
 ---
 
+---
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=googledrive&logoColor=white" height="45"/>
+  </a>
+  <a href="https://alirazaportfoliooo.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF9E44?style=for-the-badge&logo=firefox&logoColor=white" height="45"/>
+  </a>
+</p>
+
 <h3>🧠 &nbsp;About Me</h3>
 
 > I'm a **React Native developer** with a Computer Science background, focused on building clean, functional mobile and web applications — from UI to API integration to deployment.
