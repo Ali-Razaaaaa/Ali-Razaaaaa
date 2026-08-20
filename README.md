@@ -25,11 +25,11 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&logoColor=white&labelColor=1E3A8A" height="65"/>
+    <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&labelColor=1E3A8A&logoColor=white" height="75"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://alirazaportfoliooo.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&logoColor=white&labelColor=581C87" height="65"/>
+    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="75"/>
   </a>
 </p>
 
@@ -54,23 +54,27 @@
 
 <p align="center">
   <a href="mailto:razabugtiali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C" height="55"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://github.com/Ali-Razaaaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="55"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/ali-raza-42965a237/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=075985" height="55"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=15803D" height="55"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
+
   <a href="https://wa.me/923151345256">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=15803D" height="55"/>
   </a>
 </p>
 
