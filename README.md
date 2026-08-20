@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20KARACHI%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" height="45"/>
+  <strong>ONSITE IN KARACHI | REMOTE</strong>
   &nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
     <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" height="45"/>
