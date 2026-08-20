@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/16zfjzyk3oVj6AJqm6W9b1Dh8hDxh07n8/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&labelColor=1E3A8A&logoColor=white" height="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
