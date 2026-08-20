@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=%24+whoami;ALI+RAZA;%24+role+--current;react+native+developer" alt="Typing SVG" />
@@ -7,7 +8,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" height="45"/>
+  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
+    <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" height="45"/>
+  </a>
 </p>
 
 <p align="center">
@@ -22,7 +25,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/16zfjzyk3oVj6AJqm6W9b1Dh8hDxh07n8/view?usp=sharing" height="55"/>
+    <img src="https://img.shields.io/badge/📄%20Resume-FF9E44?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FF9E44" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://alirazaportfoliooo.netlify.app/">
@@ -62,7 +65,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
   </a>
   &nbsp;
-  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3">
+  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="45"/>
   </a>
   &nbsp;
