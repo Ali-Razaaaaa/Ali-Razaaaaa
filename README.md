@@ -1,50 +1,124 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">React Native Developer from Karachi, Pakistan</h3>
+# `> BOOTING PROFILE...`
 
-<ul>
-  <li>
-    <p>💻 I develop <strong>React Native applications</strong> with a focus on clean UI, performance, and reliable functionality.</p>
-  </li>
+```asm
+; ============================================================
+;                  SYSTEM INITIALIZATION
+; ============================================================
 
-  <li>
-    <p>🔭 Currently working at a <strong>software company</strong>, developing and maintaining mobile applications.</p>
-  </li>
+MOV     AX, 0001h
+MOV     BX, 0000h
 
-  <li>
-    <p>🧰 I also work with the <strong>MERN stack</strong> and enjoy building full-stack applications.</p>
-  </li>
+PRINT   "HEY THERE, I AM"
 
-  <li>
-    <p>👯 Open to <strong>React Native and React.js opportunities</strong>, including freelance and full-time roles.</p>
-  </li>
+; ------------------------------------------------------------
+;                     USER IDENTIFICATION
+; ------------------------------------------------------------
 
-  <li>
-    <p>📫 Reach me at <strong><a href="mailto:razabugtiali@gmail.com">razabugtiali@gmail.com</a></strong></p>
-  </li>
-</ul>
+MOV     USER, "aliraza"
 
-<h3 align="center">Connect with me</h3>
+PRINT   "aliraza"
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ali-raza-42965a237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+; ------------------------------------------------------------
+;                     SYSTEM STATUS
+; ------------------------------------------------------------
 
-  <a href="mailto:razabugtiali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+STATUS  = ONLINE
+MODE    = DEVELOPER
+MIND    = CURIOUS
+BUILD   = IN_PROGRESS
 
-  <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
+; ============================================================
+;                 WELCOME TO MY PROFILE
+; ============================================================
+```
 
-  <a href="https://alirazaportfoliooo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   H E Y   T H E R E ,   I   A M                             │
+│                                                              │
+│        █████╗ ██╗     ██╗██████╗  █████╗ ███████╗ █████╗    │
+│       ██╔══██╗██║     ██║██╔══██╗██╔══██╗╚══███╔╝██╔══██╗   │
+│       ███████║██║     ██║██████╔╝███████║  ███╔╝ ███████║   │
+│       ██╔══██║██║     ██║██╔══██╗██╔══██║ ███╔╝  ██╔══██║   │
+│       ██║  ██║███████╗██║██║  ██║██║  ██║███████╗██║  ██║   │
+│       ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   │
+│                                                              │
+│                       [ ALIRAZA ]                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<h3 align="center">GitHub Stats</h3>
+## `> WHOAMI`
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=Ali-Razaaaaa&theme=react&show_icons=true">
-</p>
+```asm
+NAME        DB "Ali Raza"
+USERNAME    DB "aliraza"
+
+ROLE        DB "Developer"
+INTERESTS   DB "Code, Systems, Technology"
+CURRENTLY   DB "Building & Learning"
+
+RETURN      0
+```
+
+## `> ABOUT_ME`
+
+```text
+Hello, world.
+
+I'm Ali Raza — a developer who enjoys turning ideas
+into things that actually work.
+
+I like exploring technology, building projects,
+breaking things, fixing them, and learning something
+new along the way.
+
+$ ./aliraza --status
+
+[+] System      : ONLINE
+[+] Creativity  : ACTIVE
+[+] Curiosity   : HIGH
+[+] Coffee      : REQUIRED
+[+] Bugs        : EXPECTED
+[+] Learning    : CONTINUOUS
+```
+
+## `> SKILLS`
+
+```asm
+; LOADED MODULES
+
+[████████████████████] CODE
+[██████████████████░░] PROBLEM_SOLVING
+[█████████████████░░░] SYSTEMS
+[████████████████░░░░] LEARNING
+[███████████████░░░░░] DEBUGGING
+```
+
+## `> CONNECT`
+
+```text
+┌─────────────────────────────────────────┐
+│                                         │
+│   GitHub   : github.com/aliraza         │
+│   Status   : ONLINE                     │
+│                                         │
+│   > Feel free to explore my projects.   │
+│   > Fork something.                     │
+│   > Open an issue.                      │
+│   > Say hello.                          │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+```asm
+; ============================================================
+;                    END OF TRANSMISSION
+; ============================================================
+
+INT     21h
+RET
+
+; "KEEP BUILDING."
+```
