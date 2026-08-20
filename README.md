@@ -24,13 +24,9 @@
 ---
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&labelColor=1E3A8A&logoColor=white" height="75"/>
-  </a>
+  <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&labelColor=1E3A8A&logoColor=white" height="75"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://alirazaportfoliooo.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="75"/>
-  </a>
+  <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="75"/>
 </p>
 
 <h3>🧠 &nbsp;About Me</h3>
@@ -118,4 +114,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Razaaaaa&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph"/>
 </p>
-
