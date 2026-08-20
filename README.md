@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=%24+whoami;ALI+RAZA;%24+role+--current;react+native+developer;%24+status;open+to+work+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=%24+whoami;ALI+RAZA;%24+role+--current;react+native+developer" alt="Typing SVG" />
 
 </div>
 
@@ -21,10 +21,6 @@
 
 <h3>🧠 &nbsp;About Me</h3>
 
-```bash
-ali@dev:~$ cat about.md
-```
-
 > I'm a **React Native developer** with a Computer Science background, focused on building clean, functional mobile and web applications — from UI to API integration to deployment.
 > Currently sharpening skills in production mobile development, and actively open to **onsite roles** and **Upwork client projects**.
 
@@ -39,6 +35,26 @@ ali@dev:~$ cat about.md
 <td>📫</td><td><b>Email:</b> razabugtiali@gmail.com</td>
 </tr>
 </table>
+
+<h3>📡 &nbsp;Connect With Me</h3>
+
+<p align="center">
+  <a href="mailto:razabugtiali@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+  </a>
+  <a href="https://github.com/Ali-Razaaaaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ali-raza-42965a237/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="45"/>
+  </a>
+  <a href="https://wa.me/923151345256">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
+  </a>
+</p>
 
 ---
 
@@ -82,24 +98,3 @@ ali@dev:~$ cat about.md
 </p>
 
 ---
-
-<h3>📡 &nbsp;Connect</h3>
-
-<p align="center">
-  <a href="mailto:razabugtiali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
-  </a>
-  <a href="https://github.com/Ali-Razaaaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="45"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=500&lines=%24+echo+%22thanks+for+stopping+by%22;%24+exit+0" alt="Typing SVG" />
-</p>
