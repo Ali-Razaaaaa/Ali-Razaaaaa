@@ -1,113 +1,132 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=%24+whoami;ALI+RAZA;%24+role+--current;react+native+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=%24+whoami;ALI+RAZA;%24+role+--current;React+Native+Developer" alt="Typing SVG" />
+
+<p>
+  <strong>React Native Developer</strong>
+  &nbsp; | &nbsp;
+  <strong>ONSITE IN KARACHI</strong>
+  &nbsp; | &nbsp;
+  <strong>REMOTE</strong>
+</p>
+
+<p>
+  <a href="https://github.com/Ali-Razaaaaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-raza-42965a237/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:razabugtiali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<p align="center">
-  <strong>ONSITE IN KARACHI &nbsp; | &nbsp; REMOTE</strong>
-</p>
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+## About Me
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=%3E+building+clean%2C+scalable+mobile+apps;%3E+react+native+%7C+mern+stack;%3E+shipping+products%2C+not+just+code" alt="Typing SVG" />
-</h2>
+I'm a **React Native Developer** with a Computer Science background, focused on building clean, reliable and scalable mobile applications.
+
+I work across the full development cycle — from **UI development and state management** to **API integration, backend services and deployment**.
+
+Currently focused on improving production-level mobile development and building real-world applications.
+
+- 📱 **Primary:** React Native
+- 🌐 **Also:** React & MERN Stack
+- 📍 **Availability:** Onsite in Karachi | Remote
+- 📫 **Email:** razabugtiali@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&labelColor=1E3A8A&logoColor=white" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="75"/>
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,c&theme=dark" height="50"/>
 </p>
 
-<h3>🧠 &nbsp;About Me</h3>
+### Mobile & Frontend
 
-> I'm a **React Native developer** with a Computer Science background, focused on building clean, functional mobile and web applications — from UI to API integration to deployment.
-> Currently sharpening skills in production mobile development, and actively open to **onsite roles in Karachi**, **remote opportunities**, and **Upwork client projects**.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux&theme=dark" height="50"/>
+</p>
 
-<table>
-<tr>
-<td>🛠️</td><td><b>Stack:</b> React Native, React, Node.js/Express, MongoDB/MySQL</td>
-</tr>
-<tr>
-<td>🎯</td><td><b>Looking for:</b> Onsite roles in Karachi, remote opportunities &amp; Upwork contracts</td>
-</tr>
-<tr>
-<td>📫</td><td><b>Email:</b> razabugtiali@gmail.com</td>
-</tr>
-</table>
+### Backend & Database
 
-<h3>📡 &nbsp;Connect With Me</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" height="50"/>
+</p>
 
-<p align="center">
-  <a href="mailto:razabugtiali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C" height="55"/>
-  </a>
-  &nbsp;&nbsp;
+### Tools
 
-  <a href="https://github.com/Ali-Razaaaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="55"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/ali-raza-42965a237/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=075985" height="55"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=15803D" height="55"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://wa.me/923151345256">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=15803D" height="55"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="50"/>
 </p>
 
 ---
 
-<h3>⚡ &nbsp;Tech Stack</h3>
+## Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,c&theme=dark&perline=5" height="60"/>
-</p>
-<p align="center"><sub><b>Languages</b></sub></p>
+### 📱 Mobile Applications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux&theme=dark&perline=5" height="60"/>
-</p>
-<p align="center"><sub><b>React Native &amp; Frontend</b></sub></p>
+Building cross-platform mobile applications with **React Native**, focusing on clean UI, reusable components, API integration and scalable architecture.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=5" height="60"/>
-</p>
-<p align="center"><sub><b>Backend &amp; Database</b></sub></p>
+### 🌐 Full-Stack Applications
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=5" height="60"/>
+Developing full-stack applications using the **MERN stack**, including REST APIs, authentication, database integration and responsive interfaces.
+
+> More projects and case studies are available on my portfolio.
+
+<p>
+  <a href="https://alirazaportfoliooo.netlify.app/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-9333EA?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
-<p align="center"><sub><b>Tools</b></sub></p>
 
 ---
 
-<h3>📊 &nbsp;GitHub Analytics</h3>
+## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ali-Razaaaaa&show_icons=true&count_private=true&theme=matrix&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Razaaaaa&layout=compact&langs_count=8&theme=matrix&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ali-Razaaaaa&show_icons=true&count_private=true&theme=matrix&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Razaaaaa&layout=compact&langs_count=8&theme=matrix&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Razaaaaa&theme=matrix&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Razaaaaa&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph"/>
+---
+
+## Connect
+
+<p>
+  <a href="mailto:razabugtiali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ali-raza-42965a237/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://wa.me/923151345256">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
+---
+
+<div align="center">
+
+### Building products, not just code.
+
+</div>
