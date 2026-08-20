@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20Resume-1E88E5?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1E88E5" height="55"/>
+    <img src="https://drive.google.com/file/d/16zfjzyk3oVj6AJqm6W9b1Dh8hDxh07n8/view?usp=sharing" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://alirazaportfoliooo.netlify.app/">
