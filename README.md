@@ -24,20 +24,14 @@
 ---
 
 <p align="center">
-
   <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&logoColor=white&labelColor=1E3A8A" height="65"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://alirazaportfoliooo.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&logoColor=white&labelColor=581C87" height="65"/>
   </a>
-
 </p>
-
-<br>
 
 <h3>🧠 &nbsp;About Me</h3>
 
