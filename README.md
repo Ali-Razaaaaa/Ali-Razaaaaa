@@ -5,8 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117&fontSize=20" height="40"/>
-  <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117&fontSize=20" height="40"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" height="45"/>
 </p>
 
 <p align="center">
@@ -14,19 +15,18 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=%3E+building+clean%2C+scalable+mobile+apps;%3E+react+native+%7C+flutter+%7C+mern+stack;%3E+shipping+products%2C+not+just+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=%3E+building+clean%2C+scalable+mobile+apps;%3E+react+native+%7C+mern+stack;%3E+shipping+products%2C+not+just+code" alt="Typing SVG" />
 </h2>
-
----
 
 ---
 
 <p align="center">
   <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=googledrive&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/📄%20Resume-1E88E5?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=1E88E5" height="55"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://alirazaportfoliooo.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF9E44?style=for-the-badge&logo=firefox&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF9E44?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF9E44" height="55"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td>🛠️</td><td><b>Stack:</b> React Native, Flutter, React, Node.js/Express, MongoDB/MySQL</td>
+<td>🛠️</td><td><b>Stack:</b> React Native, React, Node.js/Express, MongoDB/MySQL</td>
 </tr>
 <tr>
 <td>🎯</td><td><b>Looking for:</b> Onsite engineering roles &amp; Upwork contracts</td>
@@ -53,15 +53,19 @@
   <a href="mailto:razabugtiali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Ali-Razaaaaa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ali-raza-42965a237/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
   </a>
+  &nbsp;
   <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="45"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/923151345256">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
   </a>
@@ -72,7 +76,7 @@
 <h3>⚡ &nbsp;Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,dart&theme=dark&perline=5" height="60"/>
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,c&theme=dark&perline=5" height="60"/>
 </p>
 <p align="center"><sub><b>Languages</b></sub></p>
 
@@ -107,5 +111,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Razaaaaa&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph"/>
 </p>
-
----
