@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" height="45"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ONSITE%20%7C%20KARACHI%20%7C%20REMOTE-FF6B00?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" height="45"/>
   &nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~01d7ad1de0e87e17a3?mp_source=share">
     <img src="https://img.shields.io/badge/AVAILABLE%20ON-UPWORK-0A66C2?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0D1117" height="45"/>
@@ -24,26 +24,32 @@
 ---
 
 <p align="center">
+
   <a href="https://drive.google.com/file/d/181Dk6kG0GrmCe3bFeoXhqubRBdWIBRn3/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄%20Resume-FF9E44?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FF9E44" height="55"/>
+    <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&logoColor=white&labelColor=1E3A8A" height="65"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://alirazaportfoliooo.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF9E44?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF9E44" height="55"/>
+    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&logoColor=white&labelColor=581C87" height="65"/>
   </a>
+
 </p>
+
+<br>
 
 <h3>🧠 &nbsp;About Me</h3>
 
 > I'm a **React Native developer** with a Computer Science background, focused on building clean, functional mobile and web applications — from UI to API integration to deployment.
-> Currently sharpening skills in production mobile development, and actively open to **onsite roles** and **Upwork client projects**.
+> Currently sharpening skills in production mobile development, and actively open to **onsite roles in Karachi**, **remote opportunities**, and **Upwork client projects**.
 
 <table>
 <tr>
 <td>🛠️</td><td><b>Stack:</b> React Native, React, Node.js/Express, MongoDB/MySQL</td>
 </tr>
 <tr>
-<td>🎯</td><td><b>Looking for:</b> Onsite engineering roles &amp; Upwork contracts</td>
+<td>🎯</td><td><b>Looking for:</b> Onsite roles in Karachi, remote opportunities &amp; Upwork contracts</td>
 </tr>
 <tr>
 <td>📫</td><td><b>Email:</b> razabugtiali@gmail.com</td>
@@ -114,3 +120,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Razaaaaa&theme=matrix&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph"/>
 </p>
+
