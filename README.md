@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-2563EB?style=for-the-badge&labelColor=1E3A8A&logoColor=white" height="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://alirazaaportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="65"/>
-  </a>
+ <a href="https://alirazaaportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="65"/>
+</a>
 </p>
 
 ---
