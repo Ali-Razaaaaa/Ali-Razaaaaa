@@ -79,7 +79,7 @@ Building cross-platform mobile applications with **React Native**, focusing on c
 Developing full-stack applications using the **MERN stack**, including REST APIs, authentication, database integration and responsive interfaces.
 
 <p align="center">
-  <a href="https://alirazaportfoliooo.netlify.app/">
+  <a href="https://alirazaaportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-9333EA?style=for-the-badge&labelColor=581C87&logoColor=white" height="50"/>
   </a>
 </p>
